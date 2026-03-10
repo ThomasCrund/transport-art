@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC,Quantity
+Conn_01x05_Socket,J2,TransportMapConnector,,1
+Conn_01x05_Socket,J1,TransportMapConnector_half,,1
+WS2812B,D5,XL-3332RGBC-WS2812B,,1
+1µF,C2,C_0603_1608Metric,,1
+WS2812B,D3,XL-3332RGBC-WS2812B,,1
+WS2812B,D2,XL-3332RGBC-WS2812B,,1
+1µF,C3,C_0603_1608Metric,,1
+WS2812B,D4,XL-3332RGBC-WS2812B,,1
+1µF,C1,C_0603_1608Metric,,1
+WS2812B,D1,XL-3332RGBC-WS2812B,,1
+330R,R1,R_0603_1608Metric,,1
+Conn_01x05_Socket,J6,TransportMapConnector_half,,1
+Conn_01x05_Socket,J5,TransportMapConnector,,1
+Conn_01x05_Socket,J4,TransportMapConnector,,1
+Conn_01x05_Socket,J3,TransportMapConnector,,1

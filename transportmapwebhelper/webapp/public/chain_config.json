@@ -1,0 +1,1431 @@
+{
+  "chains": [
+    {
+      "id": "chain-1771290790496",
+      "name": "Dark Blue",
+      "color": "#0000ff",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1552",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1432"
+        },
+        {
+          "pcbId": "path1432",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1552",
+          "outputPath": 2,
+          "outputTo": "path1836"
+        },
+        {
+          "pcbId": "path1836",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1432",
+          "outputPath": 2,
+          "outputTo": "path1864"
+        },
+        {
+          "pcbId": "path1864",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1836",
+          "outputPath": 2,
+          "outputTo": "path1496"
+        },
+        {
+          "pcbId": "path1496",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1864",
+          "outputPath": 2,
+          "outputTo": "path1476"
+        },
+        {
+          "pcbId": "path1476",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1496",
+          "outputPath": 2,
+          "outputTo": "path1488"
+        },
+        {
+          "pcbId": "path1488",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1476",
+          "outputPath": 2,
+          "outputTo": "path1320"
+        },
+        {
+          "pcbId": "path1320",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1488",
+          "outputPath": 2,
+          "outputTo": "path1336"
+        },
+        {
+          "pcbId": "path1336",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1320",
+          "outputPath": 2,
+          "outputTo": "path1352"
+        },
+        {
+          "pcbId": "path1352",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1336",
+          "outputPath": 2,
+          "outputTo": "path1364"
+        },
+        {
+          "pcbId": "path1364",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1352",
+          "outputPath": 2,
+          "outputTo": "path1376"
+        },
+        {
+          "pcbId": "path1376",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1364",
+          "outputPath": 2,
+          "outputTo": "path1388"
+        },
+        {
+          "pcbId": "path1388",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1376",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771290852215",
+      "name": "Red",
+      "color": "#ff1d25",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1540",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1528"
+        },
+        {
+          "pcbId": "path1528",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1540",
+          "outputPath": 2,
+          "outputTo": "path1088"
+        },
+        {
+          "pcbId": "path1088",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1528",
+          "outputPath": 2,
+          "outputTo": "path1112"
+        },
+        {
+          "pcbId": "path1112",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1088",
+          "outputPath": 2,
+          "outputTo": "path1120"
+        },
+        {
+          "pcbId": "path1120",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1112",
+          "outputPath": 2,
+          "outputTo": "path1132"
+        },
+        {
+          "pcbId": "path1132",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1120",
+          "outputPath": 2,
+          "outputTo": "path1148"
+        },
+        {
+          "pcbId": "path1148",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1132",
+          "outputPath": 2,
+          "outputTo": "path1172"
+        },
+        {
+          "pcbId": "path1172",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1148",
+          "outputPath": 2,
+          "outputTo": "path1232"
+        },
+        {
+          "pcbId": "path1232",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1172",
+          "outputPath": 2,
+          "outputTo": "path1256"
+        },
+        {
+          "pcbId": "path1256",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1232",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771291427598",
+      "name": "Brown",
+      "color": "#8c6239",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1684",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1004"
+        },
+        {
+          "pcbId": "path1004",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1684",
+          "outputPath": 2,
+          "outputTo": "path984"
+        },
+        {
+          "pcbId": "path984",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1004",
+          "outputPath": 2,
+          "outputTo": "path1528"
+        },
+        {
+          "pcbId": "path1528",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path984",
+          "outputPath": 2,
+          "outputTo": null
+        },
+        {
+          "pcbId": "path772",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1528",
+          "outputPath": 2,
+          "outputTo": "path1776"
+        },
+        {
+          "pcbId": "path1776",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path772",
+          "outputPath": 2,
+          "outputTo": "path764"
+        },
+        {
+          "pcbId": "path764",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1776",
+          "outputPath": 2,
+          "outputTo": "path1708"
+        },
+        {
+          "pcbId": "path1708",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path764",
+          "outputPath": 2,
+          "outputTo": "path1696"
+        },
+        {
+          "pcbId": "path1696",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1708",
+          "outputPath": 2,
+          "outputTo": "path1936"
+        },
+        {
+          "pcbId": "path1936",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1696",
+          "outputPath": 2,
+          "outputTo": "path744"
+        },
+        {
+          "pcbId": "path744",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1936",
+          "outputPath": 2,
+          "outputTo": "path724"
+        },
+        {
+          "pcbId": "path724",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path744",
+          "outputPath": 2,
+          "outputTo": "path724"
+        },
+        {
+          "pcbId": "path724",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path724",
+          "outputPath": 2,
+          "outputTo": "path690"
+        },
+        {
+          "pcbId": "path690",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path724",
+          "outputPath": 2,
+          "outputTo": "path704"
+        },
+        {
+          "pcbId": "path704",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path690",
+          "outputPath": 2,
+          "outputTo": "path712"
+        },
+        {
+          "pcbId": "path712",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path704",
+          "outputPath": 2,
+          "outputTo": "path712"
+        },
+        {
+          "pcbId": "path712",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path712",
+          "outputPath": 2,
+          "outputTo": "path704"
+        },
+        {
+          "pcbId": "path704",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path712",
+          "outputPath": 2,
+          "outputTo": "path690"
+        },
+        {
+          "pcbId": "path690",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path704",
+          "outputPath": 2,
+          "outputTo": "path744"
+        },
+        {
+          "pcbId": "path744",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path690",
+          "outputPath": 2,
+          "outputTo": "path1192"
+        },
+        {
+          "pcbId": "path1192",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path744",
+          "outputPath": 2,
+          "outputTo": "path1216"
+        },
+        {
+          "pcbId": "path1216",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1192",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771291753659",
+      "name": "Orange",
+      "color": "#f7931e",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1596",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1604"
+        },
+        {
+          "pcbId": "path1604",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1596",
+          "outputPath": 2,
+          "outputTo": "path1616"
+        },
+        {
+          "pcbId": "path1616",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1604",
+          "outputPath": 2,
+          "outputTo": "path1616"
+        },
+        {
+          "pcbId": "path1616",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1616",
+          "outputPath": 2,
+          "outputTo": "path1604"
+        },
+        {
+          "pcbId": "path1604",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1616",
+          "outputPath": 2,
+          "outputTo": "path1596"
+        },
+        {
+          "pcbId": "path1596",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1604",
+          "outputPath": 2,
+          "outputTo": "path1624"
+        },
+        {
+          "pcbId": "path1624",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1596",
+          "outputPath": 2,
+          "outputTo": "path1644"
+        },
+        {
+          "pcbId": "path1644",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1624",
+          "outputPath": 2,
+          "outputTo": "path1644"
+        },
+        {
+          "pcbId": "path1644",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1644",
+          "outputPath": 2,
+          "outputTo": "path1624"
+        },
+        {
+          "pcbId": "path1624",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1644",
+          "outputPath": 2,
+          "outputTo": "path1884"
+        },
+        {
+          "pcbId": "path1884",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1624",
+          "outputPath": 2,
+          "outputTo": "path1892"
+        },
+        {
+          "pcbId": "path1892",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1884",
+          "outputPath": 2,
+          "outputTo": "path1876"
+        },
+        {
+          "pcbId": "path1876",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1892",
+          "outputPath": 2,
+          "outputTo": "path1652"
+        },
+        {
+          "pcbId": "path1652",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1876",
+          "outputPath": 2,
+          "outputTo": "path1660"
+        },
+        {
+          "pcbId": "path1660",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1652",
+          "outputPath": 2,
+          "outputTo": "path1672"
+        },
+        {
+          "pcbId": "path1672",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1660",
+          "outputPath": 2,
+          "outputTo": "path1672"
+        },
+        {
+          "pcbId": "path1672",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1672",
+          "outputPath": 2,
+          "outputTo": "path1660"
+        },
+        {
+          "pcbId": "path1660",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1672",
+          "outputPath": 2,
+          "outputTo": "path1920"
+        },
+        {
+          "pcbId": "path1920",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1660",
+          "outputPath": 2,
+          "outputTo": "path1900"
+        },
+        {
+          "pcbId": "path1900",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1920",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771291792676",
+      "name": "Green",
+      "color": "#7ac943",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1552",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1424"
+        },
+        {
+          "pcbId": "path1424",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1552",
+          "outputPath": 2,
+          "outputTo": "path1824"
+        },
+        {
+          "pcbId": "path1824",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1424",
+          "outputPath": 2,
+          "outputTo": "path1400"
+        },
+        {
+          "pcbId": "path1400",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1824",
+          "outputPath": 2,
+          "outputTo": "path1132"
+        },
+        {
+          "pcbId": "path1132",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1400",
+          "outputPath": 2,
+          "outputTo": "path1796"
+        },
+        {
+          "pcbId": "path1796",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1132",
+          "outputPath": 2,
+          "outputTo": "path1804"
+        },
+        {
+          "pcbId": "path1804",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1796",
+          "outputPath": 2,
+          "outputTo": "path1812"
+        },
+        {
+          "pcbId": "path1812",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1804",
+          "outputPath": 2,
+          "outputTo": "path1272"
+        },
+        {
+          "pcbId": "path1272",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1812",
+          "outputPath": 2,
+          "outputTo": "path1292"
+        },
+        {
+          "pcbId": "path1292",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1272",
+          "outputPath": 2,
+          "outputTo": "path1304"
+        },
+        {
+          "pcbId": "path1304",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1292",
+          "outputPath": 2,
+          "outputTo": "path1448"
+        },
+        {
+          "pcbId": "path1448",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1304",
+          "outputPath": 2,
+          "outputTo": "path1448"
+        },
+        {
+          "pcbId": "path1464",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1448",
+          "outputPath": 2,
+          "outputTo": "path1848"
+        },
+        {
+          "pcbId": "path1848",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1464",
+          "outputPath": 2,
+          "outputTo": "path1520"
+        },
+        {
+          "pcbId": "path1520",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1848",
+          "outputPath": 2,
+          "outputTo": "path1504"
+        },
+        {
+          "pcbId": "path1504",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1520",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771292085534",
+      "name": "Pink",
+      "color": "#ff7bac",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1552",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1432"
+        },
+        {
+          "pcbId": "path1432",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1552",
+          "outputPath": 2,
+          "outputTo": "path1564"
+        },
+        {
+          "pcbId": "path1564",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1432",
+          "outputPath": 2,
+          "outputTo": "path1576"
+        },
+        {
+          "pcbId": "path1576",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1564",
+          "outputPath": 2,
+          "outputTo": "path1588"
+        },
+        {
+          "pcbId": "path1588",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1576",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771292356425",
+      "name": "Gray",
+      "color": "#666666",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1540",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1528"
+        },
+        {
+          "pcbId": "path1528",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1540",
+          "outputPath": 2,
+          "outputTo": "path772"
+        },
+        {
+          "pcbId": "path772",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1528",
+          "outputPath": 2,
+          "outputTo": "path1776"
+        },
+        {
+          "pcbId": "path1776",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path772",
+          "outputPath": 2,
+          "outputTo": "path792"
+        },
+        {
+          "pcbId": "path792",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1776",
+          "outputPath": 2,
+          "outputTo": "path808"
+        },
+        {
+          "pcbId": "path808",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path792",
+          "outputPath": 2,
+          "outputTo": "path832"
+        },
+        {
+          "pcbId": "path832",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path808",
+          "outputPath": 2,
+          "outputTo": "path856"
+        },
+        {
+          "pcbId": "path856",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path832",
+          "outputPath": 2,
+          "outputTo": "path872"
+        },
+        {
+          "pcbId": "path872",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path856",
+          "outputPath": 2,
+          "outputTo": "path872"
+        },
+        {
+          "pcbId": "path872",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path872",
+          "outputPath": 2,
+          "outputTo": "path900"
+        },
+        {
+          "pcbId": "path900",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path872",
+          "outputPath": 2,
+          "outputTo": "path888"
+        },
+        {
+          "pcbId": "path888",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path900",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771292399391",
+      "name": "Yellow",
+      "color": "#fcee21",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1684",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1004"
+        },
+        {
+          "pcbId": "path1004",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1684",
+          "outputPath": 2,
+          "outputTo": "path964"
+        },
+        {
+          "pcbId": "path964",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1004",
+          "outputPath": 2,
+          "outputTo": "path928"
+        },
+        {
+          "pcbId": "path928",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path964",
+          "outputPath": 2,
+          "outputTo": "path920"
+        },
+        {
+          "pcbId": "path920",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path928",
+          "outputPath": 2,
+          "outputTo": "path920"
+        },
+        {
+          "pcbId": "path920",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path920",
+          "outputPath": 2,
+          "outputTo": "path952"
+        },
+        {
+          "pcbId": "path952",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path920",
+          "outputPath": 2,
+          "outputTo": "path1716"
+        },
+        {
+          "pcbId": "path1716",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path952",
+          "outputPath": 2,
+          "outputTo": "path1736"
+        },
+        {
+          "pcbId": "path1736",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1716",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    },
+    {
+      "id": "chain-1771292435877",
+      "name": "Blue",
+      "color": "#0c71ce",
+      "startPoint": {
+        "x": 1915,
+        "y": 1735
+      },
+      "connections": [
+        {
+          "pcbId": "path1684",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": null,
+          "outputPath": 2,
+          "outputTo": "path1068"
+        },
+        {
+          "pcbId": "path1068",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1684",
+          "outputPath": 2,
+          "outputTo": "path1048"
+        },
+        {
+          "pcbId": "path1048",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1068",
+          "outputPath": 2,
+          "outputTo": "path1024"
+        },
+        {
+          "pcbId": "path1024",
+          "entryEnd": "end",
+          "exitEnd": "start",
+          "inputFrom": "path1048",
+          "outputPath": 2,
+          "outputTo": "path1752"
+        },
+        {
+          "pcbId": "path1752",
+          "entryEnd": "start",
+          "exitEnd": "end",
+          "inputFrom": "path1024",
+          "outputPath": 2,
+          "outputTo": null
+        }
+      ]
+    }
+  ],
+  "pcbSlots": {
+    "path1552": {
+      "slotA": "chain-1771290790496",
+      "slotB": "chain-1771291792676",
+      "slotC": "chain-1771292085534"
+    },
+    "path1432": {
+      "slotA": "chain-1771290790496",
+      "slotB": "chain-1771292085534",
+      "slotC": null
+    },
+    "path1836": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1864": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1496": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1476": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1488": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1320": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1336": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1352": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1364": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1376": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1388": {
+      "slotA": "chain-1771290790496",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1540": {
+      "slotA": "chain-1771290852215",
+      "slotB": "chain-1771292356425",
+      "slotC": null
+    },
+    "path1528": {
+      "slotA": "chain-1771290852215",
+      "slotB": "chain-1771291427598",
+      "slotC": "chain-1771292356425"
+    },
+    "path1088": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1112": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1120": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1132": {
+      "slotA": "chain-1771290852215",
+      "slotB": "chain-1771291792676",
+      "slotC": null
+    },
+    "path1148": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1172": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1232": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1256": {
+      "slotA": "chain-1771290852215",
+      "slotB": null,
+      "slotC": null
+    },
+    "path772": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771292356425",
+      "slotC": null
+    },
+    "path1776": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771292356425",
+      "slotC": null
+    },
+    "path764": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1708": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1696": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1936": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path744": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path724": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path690": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path704": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path712": {
+      "slotA": "chain-1771291427598",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path1192": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1216": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1596": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1604": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1616": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1624": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1644": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1884": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1892": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1876": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1652": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1660": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1672": {
+      "slotA": "chain-1771291753659",
+      "slotB": "chain-1771291753659",
+      "slotC": null
+    },
+    "path1920": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1900": {
+      "slotA": "chain-1771291753659",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1424": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1824": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1400": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1796": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1804": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1812": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1272": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1292": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1304": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1448": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1464": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1848": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1520": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1504": {
+      "slotA": "chain-1771291792676",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1564": {
+      "slotA": "chain-1771292085534",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1576": {
+      "slotA": "chain-1771292085534",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1588": {
+      "slotA": "chain-1771292085534",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1684": {
+      "slotA": "chain-1771292435877",
+      "slotB": "chain-1771291427598",
+      "slotC": "chain-1771292399391"
+    },
+    "path1004": {
+      "slotA": "chain-1771292399391",
+      "slotB": "chain-1771291427598",
+      "slotC": null
+    },
+    "path984": {
+      "slotA": "chain-1771291427598",
+      "slotB": null,
+      "slotC": null
+    },
+    "path792": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path808": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path832": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path856": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path872": {
+      "slotA": "chain-1771292356425",
+      "slotB": "chain-1771292356425",
+      "slotC": null
+    },
+    "path900": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path888": {
+      "slotA": "chain-1771292356425",
+      "slotB": null,
+      "slotC": null
+    },
+    "path964": {
+      "slotA": "chain-1771292399391",
+      "slotB": null,
+      "slotC": null
+    },
+    "path928": {
+      "slotA": "chain-1771292399391",
+      "slotB": null,
+      "slotC": null
+    },
+    "path920": {
+      "slotA": "chain-1771292399391",
+      "slotB": "chain-1771292399391",
+      "slotC": null
+    },
+    "path952": {
+      "slotA": "chain-1771292399391",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1716": {
+      "slotA": "chain-1771292399391",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1736": {
+      "slotA": "chain-1771292399391",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1068": {
+      "slotA": "chain-1771292435877",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1048": {
+      "slotA": "chain-1771292435877",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1024": {
+      "slotA": "chain-1771292435877",
+      "slotB": null,
+      "slotC": null
+    },
+    "path1752": {
+      "slotA": "chain-1771292435877",
+      "slotB": null,
+      "slotC": null
+    }
+  }
+}

@@ -1,0 +1,507 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 29.21 58.42)
+		(size 29.21 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0ee6e11e-7459-4810-b97d-69845ee566c5")
+		(property "Sheetname" "Cross"
+			(at 29.21 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cross.kicad_sch"
+			(at 29.21 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 30.48)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "15610cdf-2aeb-4cc9-813f-500ba3f748d4")
+		(property "Sheetname" "Basic1-1"
+			(at 29.21 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 29.21 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 83.82)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "224b66c6-6d5a-4ac9-b995-9701c4ee40e1")
+		(property "Sheetname" "Basic1-1-curve1"
+			(at 29.21 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 29.21 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 165.1)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "315e8cdc-41c4-4f89-aa89-bfff861af3bb")
+		(property "Sheetname" "Basic1-2-extension2"
+			(at 29.21 164.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 29.21 183.4646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 83.82)
+		(size 31.75 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "32ea4ba3-47d7-434d-b053-284753d81fd4")
+		(property "Sheetname" "1Input;Output(A,D)"
+			(at 64.77 83.1084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1iAD.kicad_sch"
+			(at 64.77 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 109.22)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "374cd0be-16ea-4564-9782-b8a54e476136")
+		(property "Sheetname" "Basic1-1-curve-2"
+			(at 29.21 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 29.21 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 63.5 138.43)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3a6baa00-f07d-472d-a3ec-f97470109c1e")
+		(property "Sheetname" "Basic1-2-shorten"
+			(at 63.5 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 63.5 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 58.42)
+		(size 34.29 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4051a253-462b-46da-96ec-963ffb85b90f")
+		(property "Sheetname" "2Input1Output2ToA"
+			(at 102.87 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2i1o2toA.kicad_sch"
+			(at 102.87 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 138.43)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4b1ef1d6-4afb-49aa-ac50-dd503f3e6e72")
+		(property "Sheetname" "Basic1-2-extension"
+			(at 29.21 137.7184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basicconnection.kicad_sch"
+			(at 29.21 156.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 30.48)
+		(size 31.75 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e9908d9-824e-4a13-b457-b7c5911fdc1d")
+		(property "Sheetname" "1Input2Outputs"
+			(at 64.77 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1i2o.kicad_sch"
+			(at 64.77 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 142.24 31.75)
+		(size 27.94 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6bbca354-2a7d-470f-84a6-879dc551373b")
+		(property "Sheetname" "1Input3Output"
+			(at 142.24 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 142.24 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 58.42)
+		(size 31.75 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b84db20a-5003-4741-91be-41ce7e34e135")
+		(property "Sheetname" "1nput;Output(A,B)"
+			(at 64.77 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "1iAB.kicad_sch"
+			(at 64.77 75.5146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 31.75)
+		(size 35.56 16.51)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ec927dfb-0e0f-4a35-bbb0-314282632c51")
+		(property "Sheetname" "2Inputs1Output"
+			(at 102.87 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "2i1o.kicad_sch"
+			(at 102.87 48.8446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ConnectorsTesting"
+				(path "/aaa0a7ef-8623-4cd0-b8e7-e055a4a985ec"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

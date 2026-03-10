@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,5050040812,CONN8_505004-0812_MOL,48.0,-57.0,90.0,top
+J2,5050060812,CONN_505006-0812_MOL,48.0,-57.0,270.0,bottom
+J3,Conn_01x06_Pin,PinHeader_1x06_P2.54mm_Vertical,48.0,-39.0,-90.0,top

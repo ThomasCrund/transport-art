@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1µF,C_0603_1608Metric,66.5,-74.2,90.0,top
+C2,1µF,C_0603_1608Metric,86.5,-74.2,90.0,top
+C3,1µF,C_0603_1608Metric,126.4,-74.2,90.0,top
+D1,WS2812B,XL-3332RGBC-WS2812B,50.0,-75.0,0.0,top
+D2,WS2812B,XL-3332RGBC-WS2812B,70.1,-75.0,0.0,top
+D3,WS2812B,XL-3332RGBC-WS2812B,90.0,-75.0,0.0,top
+D4,WS2812B,XL-3332RGBC-WS2812B,110.0,-75.0,0.0,top
+D5,WS2812B,XL-3332RGBC-WS2812B,130.0,-75.0,0.0,top
+J1,Conn_01x05_Socket,TransportMapConnector_half,43.0,-75.0,0.0,top
+J2,Conn_01x05_Socket,TransportMapConnector,60.0,-75.0,0.0,top
+J3,Conn_01x05_Socket,TransportMapConnector,80.0,-75.0,0.0,top
+J4,Conn_01x05_Socket,TransportMapConnector,100.0,-75.0,0.0,top
+J5,Conn_01x05_Socket,TransportMapConnector,120.0,-75.0,0.0,top
+J6,Conn_01x05_Socket,TransportMapConnector_half,137.0,-75.0,0.0,top
+R1,330R,R_0603_1608Metric,47.15,-76.0,90.0,top
